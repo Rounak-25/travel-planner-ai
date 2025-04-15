@@ -34,9 +34,9 @@ const Header = () => {
               <div className="flex gap-1 justify-center items-center">
                 <MapPinIcon className="h-10 w-10 text-blue-500" />
                 <div className="flex flex-col leading-5 font-bold text-xl">
-                  <span>Travel</span>
+                  <span>SAFAR</span>
                   <span>
-                    Planner
+                    SAATHI
                     <span className="text-blue-500 ml-0.5">AI</span>
                   </span>
                 </div>
